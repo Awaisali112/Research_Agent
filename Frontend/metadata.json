@@ -1,0 +1,5 @@
+{
+  "name": "Research agent",
+  "description": "An expert research agent for analyzing historical trends and synthesizing academic data.",
+  "requestFramePermissions": []
+}
