@@ -4,7 +4,7 @@ A full-stack AI research assistant powered by LangChain, LangGraph, and Ollama. 
 
 ## Project Flow
 
-![Project Flow Diagram](docs/flow-diagram.png)
+![Project Flow Diagram](docs/flow-Diagram.png)
 
 ---
 
