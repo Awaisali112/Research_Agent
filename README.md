@@ -2,6 +2,10 @@
 
 A full-stack AI research assistant powered by LangChain, LangGraph, and Ollama. It searches the web, Wikipedia, and arXiv to answer research questions with cited sources — all through a clean React UI.
 
+## Project Flow
+
+![Project Flow Diagram](docs/flow-diagram.png)
+
 ---
 
 ## Project Structure
